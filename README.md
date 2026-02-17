@@ -1,8 +1,9 @@
 # E-Commerce Frontend
-
 This is the frontend for my ALX ProDev capstone project. It's a full e-commerce store built with Next.js that talks to a Django REST API I built separately.
 
 **Live site:** https://alx-project-nexus-rjpa.vercel.app
+
+**Backend API:** https://ecommerce-api-wp9c.onrender.com/api/v1 (Django REST Framework, deployed on Render — may take ~30s to wake up on first request)
 
 ## What it does
 
